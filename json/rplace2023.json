@@ -1,24 +1,15 @@
 {
-  "contact": "https://disboard.org/fr/server/959141965532897340",
+  "contact": "https://discord.gg/8fCcuCnb",
   "templates": [
     {
-      "name": "Place Quebec",
+      "name": "Place ESD",
       "sources": [
-        "https://github.com/mifayqc/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
+        "https://github.com/TheJemy191/OverlayPlaceesd"
       ],
-      "x": 953,
-      "y": 630
+      "x": 617,
+      "y": 245
     }
   ],
-    "whitelist": [
-    {
-      "name": "Argentine",
-      "url": "https://rentry.co/PlaceArg/raw"
-    },
-	{
-		"name": "WCA - World Cube Association",
-		"url": "https://rentry.co/WCA2/raw"
-	}
-  ],
+    "whitelist": [],
   "blacklist": []
 }
